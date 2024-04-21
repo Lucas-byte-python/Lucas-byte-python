@@ -28,3 +28,5 @@ Sou apaixonado por tecnologia, e por ganhar conhecimento.
 - Comunicação<br/>
 - Resolução de Problemas<br/>
 - Criatividade<br/>
+
+![snake gif](https://github.com/Lucas-byte-python/Lucas-byte-python/blob/output/github-contribution-grid-snake.svg)
