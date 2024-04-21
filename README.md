@@ -35,7 +35,7 @@ Sou apaixonado por tecnologia, e por ganhar conhecimento.
 </br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-sousa-santil-1ab7ab2b3/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.linkedin.com/in/lucas-de-sousa-santil-1ab7ab2b3/](https://www.instagram.com/lucas.s_tec.info/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.s_tec.info/)
 </br></br>
 
 <h2>Minhas Habilidades:</h2>
