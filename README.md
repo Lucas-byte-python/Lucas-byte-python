@@ -6,7 +6,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lucas-byte-python&theme=onedark)](https://github.com/Lucas-byte-python/github-profile-trophy)
 
-</br>
 <h2>O que eu sou?</h2>
 </br>
   🌱 Sou aluno da EEEP Professora Luiza de Teodoro Vieira<br/>
