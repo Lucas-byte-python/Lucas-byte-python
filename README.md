@@ -1,6 +1,11 @@
 <h1 align="center">Olá! Eu me chamo Lucas Santil ✨</h1>
+
+<i><h2 align="center">Desenvolvedor Front-End</h2></i>
 </br>
- <img align="right" style="width: 100px" src="https://media.tenor.com/yml8kcn3l6QAAAAM/ayanokoji.gif" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lucas-byte-python&theme=onedark)](https://github.com/Lucas-byte-python/github-profile-trophy)
+
+</br>
  
 - Sou aluno da EEEP Professora Luiza de Teodoro Vieira
 - Sou Tecnico em T.I
@@ -34,3 +39,4 @@ Sou apaixonado por tecnologia, e por ganhar conhecimento.
 - Resolução de Problemas<br/>
 - Criatividade<br/>
 
+ <img align="right" style="width: 100px" src="https://media.tenor.com/yml8kcn3l6QAAAAM/ayanokoji.gif" />
