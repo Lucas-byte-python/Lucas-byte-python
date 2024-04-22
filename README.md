@@ -9,7 +9,7 @@
 
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lucas-byte-python&theme=onedark)](https://github.com/Lucas-byte-python/github-profile-trophy)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lucas-byte-python&theme=onedark)](https://github.com/Lucas-byte-python/github-profile-trophy)
 
 <h2>O que eu sou?</h2>
 </br>
