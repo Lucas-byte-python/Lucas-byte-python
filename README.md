@@ -48,6 +48,6 @@ Sou apaixonado por tecnologia, e por ganhar conhecimento.
 🖥️ Desenvolver Sites<br/>
 🗣️ Comunicação<br/>
 🧩 Resolução de Problemas<br/>
-💡 Criatividade.<br/>
+💡 Criatividade<br/>
 </div>
  <img align="right" style="width: 100px" src="https://media.tenor.com/yml8kcn3l6QAAAAM/ayanokoji.gif" />
