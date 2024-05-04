@@ -52,4 +52,6 @@ Sou apaixonado por tecnologia, e por ganhar conhecimento.
 </div>
  <img align="right" style="width: 100px" src="https://media.tenor.com/yml8kcn3l6QAAAAM/ayanokoji.gif" />
 
-![snake gif](https://github.com/Lucas-byte-python/Lucas-byte-python/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Lucas-byte-python/Lucas-byte-python/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-byte-python&repo=Lucas-byte-python&theme=react)](https://github.com/Lucas-byte-python/Lucas-byte-python)
