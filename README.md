@@ -51,3 +51,5 @@ Sou apaixonado por tecnologia, e por ganhar conhecimento.
 💡 Criatividade<br/>
 </div>
  <img align="right" style="width: 100px" src="https://media.tenor.com/yml8kcn3l6QAAAAM/ayanokoji.gif" />
+
+![Snake animation](https://github.com/Lucas-byte-python/Lucas-byte-python/blob/output/github-contribution-grid-snake.svg)
