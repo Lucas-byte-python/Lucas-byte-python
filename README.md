@@ -1,10 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<h1 align="center">Olá, eu me chamo Lucas de Sousa Santil✨</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Lucas+Santil+;Tenho+16+anos;Eu+moro+no+Brasil;Eu+sou+desenvolverdor+FullStack;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
-
-<h1 align="center">✨Lucas de Sousa Santil✨</h1>
-
-<i><h2 align="center">Desenvolvedor FullStack</h2></i>
+<i><h2 align="center">Sou Desenvolvedor FullStack</h2></i>
 </br>
 <div align="center">
 <h3>Meu Portifolio Escolar❤️</h3>
