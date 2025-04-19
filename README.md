@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<h1 align="center">Hellow, </br> My name is Lucas de Sousa Santil✨</h1>
+<h1 align="center">Hellow, </br> My name is Lucas S. Santil✨</h1>
 
 <i><h2 align="center">I like Programming</h2></i>
 </br>
