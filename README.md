@@ -1,65 +1,71 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<h1 align="center">Hellow, </br> My name is Lucas S. Santil✨</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120"/>
 
-<i><h2 align="center">I like Programming</h2></i>
-</br>
-<div align="center">
-<h3>My Portifolio - 2024 Scholl❤️</h3>
-  
-[![Web](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://lucas-byte-python.github.io/intro.html)
+<h1 align="center">Hi, I'm Lucas Santil 👋</h1>
 
-</br>
+<p align="center">
+Data Science Student • Data Analysis • Technical IT Background
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lucas-byte-python&theme=dracula)](https://github.com/Lucas-byte-python/github-profile-trophy)
+---
 
-<h2>Who am I?</h2>
-</br>
-  🌱 I studied at Luiza de Teodoro Schoola Professionalization,<br/>
-  💻 I am an T.I Technician,<br/>
-  🌐 Front-End Developer and a Little Back-End,<br/>
-  👦🏽 17 year old,
-  ⚽ I Like freestyle football.
+### 👨‍💻 About Me
+- 🎓 Bachelor's Degree in **Data Science** (in progress)  
+- 💻 Technical Degree in **Information Technology** (Vocational School)  
+- 🌱 Focused on **Data Science** and **Data Analysis**  
+- 🧠 Background in **Front-End** and **Back-End Development**  
+- ♟️ Hobbies: Freestyle Football, Chess, Poker  
 
-</br></br></br>
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucas-byte-python&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas de Sousa Santil github stats"/>
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-byte-python&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</br></br></br>
+---
 
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+</p>
 
-<h2 align="center"> Technology I've Used Over Time </h2>
-</br></br>
+---
 
-  <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  <img  style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img  style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img  style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />  <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-</br></br>
+### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lucas-byte-python&show_icons=true&hide_border=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-byte-python&layout=compact&hide_border=true&theme=tokyonight"/>
+</p>
 
-"A programação é uma ferramenta poderosa que nos permite transformar sonhos em realidade digital" 
-</br>
-- John Carmack, cofundador da id Software
-</br></br></br>
+---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-byte-python&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lucas-byte-python&theme=onedark&no-frame=true&row=1&column=6"/>
+</p>
 
-<h2>My Social Midias, Talk Me 🖐️</h2>
-</br>
+---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-sousa-santil-1ab7ab2b3/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.s_tec.info/)
-</br></br>
+### 🌐 Portfolio
+🔗 [My Portfolio Website](https://lucas-byte-python.github.io/intro.html)
 
-<h2>My Ability:</h2>
-🖼️ Design Developer<br/>
-🖥️ WEB Developer<br/>
-🗣️ Communication<br/>
-🧩 Troubleshooting<br/>
-💡 Creativity<br/>
-</div>
+---
 
-<div align="center">
-<br><p align="centre"><b>Visits</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lucas-byte-python}/count.svg" /></p> 
-<br></div>
-<img align="right" style="width: 100px" src="https://media.tenor.com/yml8kcn3l6QAAAAM/ayanokoji.gif" />
+### 🤝 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-de-sousa-santil-1ab7ab2b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/lucas.s_tec.info/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-![Snake animation](https://github.com/Lucas-byte-python/Lucas-byte-python/blob/output/github-contribution-grid-snake.svg)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<p align="center">
+<i>"Programming is a powerful tool that allows us to turn ideas into digital reality."</i><br/>
+— John Carmack
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
