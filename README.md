@@ -26,14 +26,6 @@ Data Science Student • Data Analysis • Technical IT Background
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lucas-byte-python&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucas-byte-python&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Portfolio
 🔗 https://lucas-byte-python.github.io/intro.html
 
